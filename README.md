@@ -1,11 +1,13 @@
-# Hi
+# Bonjour 👋
+Here, on my GitHub, you can get an overview of my technical skills. If you want to see some projects
+I worked on, go ahead and visit me on my [website](https://konstantinlukas.de).
 
-## Here's What I've Done
+## About Me 👨‍💻
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=konstantin-lukas&theme=tokyonight)
 
-Imagine all these contributions in your codebase!
+If you want to know more about me, buy me a coffee first.
 
-## Technology
+## Technology 🖨️
 <img src="images/technology.gif" alt="Is it any wonder people are afraid of technology?" style="width:100%">
 
 ### Tech In My Life 🤓
@@ -55,6 +57,10 @@ Imagine all these contributions in your codebase!
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tech I Try to Avoid 🤮
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### How Much Time I Spend Thinking About Tech <img style="display:inline;margin-bottom:-8px;" src="images/mhh.png" alt="Mhh" width="30px">
 
