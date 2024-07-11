@@ -6,7 +6,7 @@
 Imagine all these contributions in your codebase!
 
 ## Technology
-<img src="images/technology.gif" alt="Is it any wonder people are afraid of technology?">
+<img src="images/technology.gif" alt="Is it any wonder people are afraid of technology?" style="width:100%">
 
 ### Tech In My Life 🤓
 
