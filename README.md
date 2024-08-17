@@ -10,7 +10,7 @@ If you want to know more about me, buy me a coffee first.
 ## Technology 🖨️
 <img src="images/technology.gif" alt="Is it any wonder people are afraid of technology?" style="width:100%">
 
-### Tech In My Life 🤓
+### Tech I use regularly 🤓
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,7 +35,7 @@ If you want to know more about me, buy me a coffee first.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
-### Tech I Haven't Touched in Years 😴
+### Tech I Haven't Touched in Years (but have used) 😴
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -52,7 +52,7 @@ If you want to know more about me, buy me a coffee first.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-### Tech I Desire 🥵
+### Tech I want to learn 🥵
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -61,9 +61,10 @@ If you want to know more about me, buy me a coffee first.
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-### Tech I Try to Avoid 🤮
+### Please don't make me use this 🤮
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### How Much Time I Spend Thinking About Tech <img style="display:inline;margin-bottom:-8px;" src="images/mhh.png" alt="Mhh" width="30px">
 
