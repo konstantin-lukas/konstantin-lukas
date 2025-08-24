@@ -2,11 +2,6 @@
 Here, on my GitHub, you can get an overview of my technical skills. If you want to see some projects
 I worked on, go ahead and visit me on my [website](https://konstantinlukas.de).
 
-## About Me 👨‍💻
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=konstantin-lukas&theme=tokyonight)
-
-If you want to know more about me, buy me a coffee first.
-
 ## Technology 🖨️
 <img src="images/technology.gif" alt="Is it any wonder people are afraid of technology?" style="width:100%">
 
